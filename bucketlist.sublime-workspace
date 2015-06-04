@@ -1,0 +1,338 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"sing",
+				"sing_me_a_song〔function〕"
+			],
+			[
+				"cam",
+				"campaign"
+			],
+			[
+				"another",
+				"another_trans"
+			],
+			[
+				"display",
+				"display_balance"
+			],
+			[
+				"pin_",
+				"pin_number"
+			],
+			[
+				"can",
+				"can_ride_3"
+			],
+			[
+				"can_ride",
+				"can_ride_1"
+			],
+			[
+				"word",
+				"wordcount"
+			],
+			[
+				"st",
+				"start"
+			],
+			[
+				"i",
+				"i_am_beth"
+			],
+			[
+				"n",
+				"n_array"
+			],
+			[
+				"ramp",
+				"RampUpStudent"
+			],
+			[
+				"R",
+				"RampUpInstructor"
+			],
+			[
+				"Ram",
+				"RampUpStudent"
+			],
+			[
+				"par",
+				"ParentClass"
+			],
+			[
+				"div_",
+				"div_content"
+			],
+			[
+				"div",
+				"div_content"
+			],
+			[
+				"price",
+				"price_of_gold_in_kilograms"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/Ruby/Ruby.sublime-build",
+	"command_palette":
+	{
+		"height": 187.0,
+		"selected_items":
+		[
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Discover Packages"
+			],
+			[
+				"package",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 174.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/avsquint/bucket_list/app/views/lists/new.html.erb",
+		"/Users/avsquint/bucket_list/app/views/lists/index.html.erb",
+		"/Users/avsquint/bucket_list/app/controllers/lists_controller.rb",
+		"/Users/avsquint/bucket_list/config/routes.rb",
+		"/Users/avsquint/toyapp/toyapp/Gemfile.lock",
+		"/Users/avsquint/toyapp/toyapp/app/controllers/users_controller.rb",
+		"/Users/avsquint/toyapp/toyapp/app/models/user.rb",
+		"/Users/avsquint/toyapp/toyapp/app/models/micropost.rb",
+		"/Users/avsquint/toyapp/toyapp/config/routes.rb",
+		"/Users/avsquint/toyapp/toyapp/Gemfile",
+		"/Users/avsquint/typing/sinatra_type.rb",
+		"/Users/avsquint/Desktop/GDI/a.css",
+		"/Users/avsquint/rubystuff/ex40.rb",
+		"/Users/avsquint/rubystuff/ex39.rb",
+		"/Users/avsquint/rubystuff/ex39_test.rb",
+		"/Users/avsquint/rubystuff/dict.rb",
+		"/Users/avsquint/rubystuff/ex38.rb",
+		"/Users/avsquint/rubystuff/ex35.rb",
+		"/Users/avsquint/rubystuff/ex32.rb",
+		"/Users/avsquint/rubystuff/ex33xtra.rb",
+		"/Users/avsquint/rubystuff/ex33.rb",
+		"/Users/avsquint/Library/Application Support/Sublime Text 2/Packages/SublimeCodeIntel/SublimeCodeIntel.sublime-settings",
+		"/Users/avsquint/rubystuff/ex26test.rb",
+		"/Users/avsquint/Sinatra/hello/hello.rb",
+		"/Users/avsquint/Bethstuff/weapon_spec.rb",
+		"/Users/avsquint/week67/ATMcenter.rb",
+		"/Users/avsquint/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/avsquint/Pragmatic/fundfile/crowdfund.rb",
+		"/Users/avsquint/Pragmatic/gamefile/player",
+		"/Users/avsquint/Pragmatic/Prag_crowdfund.rb",
+		"/Users/avsquint/Pragmatic/calc.rb",
+		"/Users/avsquint/week67/Banking.rb",
+		"/Users/avsquint/Library/Application Support/Sublime Text 2/Packages/User/Plain text.sublime-settings",
+		"/Users/avsquint/week67/atmexit.rb",
+		"/Users/avsquint/week67/Transactions.rb",
+		"/Users/avsquint/week67/person.rb",
+		"/Users/avsquint/week67/transaction.rb",
+		"/Users/avsquint/week67/saythings.rb",
+		"/Users/avsquint/week67/bs.rb",
+		"/Users/avsquint/week67/Banking.txt",
+		"/Users/avsquint/Desktop/studystuff/palindrome.rb",
+		"/Users/avsquint/Desktop/studystuff/part3.rb",
+		"/Users/avsquint/Desktop/studystuff/itex.rb",
+		"/Users/avsquint/Desktop/studystuff/part1irb.rb",
+		"/Users/avsquint/week5/week-five-homework/part4.rb",
+		"/Users/avsquint/Desktop/prag/leapyear.rb",
+		"/Users/avsquint/week5/week-five-homework/part1v.rb",
+		"/Users/avsquint/week5/week-five-homework/part1wdef.rb",
+		"/Users/avsquint/week5/week-five-homework/part1def.rb",
+		"/Users/avsquint/week5/week-five-homework/part1irb.rb",
+		"/Users/avsquint/week5/week-five-homework/part1elsif.rb",
+		"/Users/avsquint/week5/week-five-homework/part1dog.rb",
+		"/Users/avsquint/week5/week-five-homework/part3.rb",
+		"/Users/avsquint/week5/week-five-homework/part2.rb",
+		"/Users/avsquint/Desktop/prag/logicops.rb",
+		"/Users/avsquint/week5/week-five-homework/part1xx.rb",
+		"/Users/avsquint/week5/week-five-homework/part1x.rb",
+		"/Users/avsquint/week5/week-five-homework/part1.rb",
+		"/Users/avsquint/Desktop/prag/ifANDelse.rb",
+		"/Users/avsquint/Desktop/prag/deafgrandma.rb",
+		"/Users/avsquint/Desktop/prag/elsif2.rb",
+		"/Users/avsquint/Desktop/prag/while2break.rb",
+		"/Users/avsquint/Desktop/prag/while1.rb",
+		"/Users/avsquint/Desktop/prag/if else.rb",
+		"/Users/avsquint/Desktop/prag/prag.rb",
+		"/Users/avsquint/Desktop/untitled folder/prag.rb",
+		"/Users/avsquint/Desktop/RampUp/week4hmwk/Bethsiteration.rb",
+		"/Users/avsquint/Desktop/RampUp/week4hmwk/iteration3.rb",
+		"/Users/avsquint/Desktop/RampUp/week4hmwk/iteration2.rb",
+		"/Users/avsquint/Desktop/RampUp/week4class/person.rb",
+		"/Users/avsquint/Desktop/RampUp/week4class/inherit.rb",
+		"/Users/avsquint/Desktop/RampUp/week4class/classCar.rb",
+		"/Users/avsquint/Desktop/RampUp/week2_homework/irb question",
+		"/Users/avsquint/Desktop/RampUp/week2_homework/csv-parsing.txt",
+		"/Users/avsquint/Desktop/RampUp/week2_homework/fill in the blanks",
+		"/Users/avsquint/Desktop/RampUp/week2_homework/Correctly set a variable",
+		"/Users/avsquint/Desktop/RampUp/week-two-homework/price_of_gold.rb",
+		"/Users/avsquint/Desktop/RampUp/week2_homework/sample.csv",
+		"/Users/avsquint/Desktop/RampUp/week-two-homework/def price_of_gold_from_pounds(pounds).rb",
+		"/Users/avsquint/Desktop/RampUp/week2_homework/Line 23 question"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"center",
+			"%"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 142.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"ex32.rb",
+				"/Users/avsquint/rubystuff/ex32.rb"
+			],
+			[
+				"",
+				"/Users/avsquint/rubystuff/ex32.rb"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 147.0,
+	"status_bar_visible": true
+}
